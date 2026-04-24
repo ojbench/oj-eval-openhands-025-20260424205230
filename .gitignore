@@ -1,0 +1,11 @@
+
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.d
+eval
+cheat
+anticheat
+eval-submit.cpp
+cheat-submit.cpp
+anticheat-submit.cpp
